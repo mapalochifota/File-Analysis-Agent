@@ -1,4 +1,4 @@
-# File-Analysis-Agent
+# File-Analysis-Agent(23/04/26)
 a Python-based AI system that accepts files as input (e.g. .txt, .csv, .pdf), analyzes their content using an AI component, and returns structured conclusions. The goal is to automate the process of extracting meaningful insights from documents without the user needing to read or process them manually.
 Example use cases:
 
